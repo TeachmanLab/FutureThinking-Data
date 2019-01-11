@@ -1,5 +1,5 @@
 # Templeton-Data
-This repository is the knowledge base for the MindTrails Templeton (Future Thinking study) dataset.
+This repository is the knowledge base for the MindTrails Future Thinking study (Templeton) dataset.
 
 For more information about the Future Thinking study, see the MindTrails Wiki.
 
