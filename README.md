@@ -1,4 +1,9 @@
-# Templeton-Data
+# Future_Thinking_Data
+
+NOTE: As of 5/13/2020, this repository is outdated. The cleaning script for the Future Thinking Study data is currently housed at https://github.com/cpc4tz/Future_Thinking_Data. Once the script is finalized, it will be moved here.
+
+----------
+
 This repository is the knowledge base for the MindTrails Future Thinking Study (Templeton) dataset.
 
 For more information about the Future Thinking Study, see the MindTrails Wiki.
