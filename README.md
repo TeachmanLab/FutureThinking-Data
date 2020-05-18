@@ -1,4 +1,4 @@
-# FutureThinking-Data
+# MindTrails-Data-FutureThinkingStudy
 
 NOTE: As of 5/13/2020, this repository is outdated. The cleaning script for the Future Thinking Study data is currently housed at https://github.com/cpc4tz/Future_Thinking_Data. Once the script is finalized, it will be moved here.
 
