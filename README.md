@@ -1,6 +1,6 @@
 # MT-Data-FutureThinkingStudy
 
-This repository is the knowledge base for the MindTrails Future Thinking Study (Templeton) dataset. For more information about the Future Thinking Study, see the MindTrails Wiki.
+This repository is the knowledge base for the MindTrails Future Thinking Study (Templeton) dataset. For more information about the Future Thinking Study, see the [Future Thinking page](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/futurethinking) of the [MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/home).
 
 ## Previous Names
 - Until 5/18/2020, this repository was called Templeton-Data.
